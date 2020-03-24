@@ -1,0 +1,65 @@
+Instale o Node JS e o Yarn(Instalador de Pacotes)
+Instale o VS Code
+Instale o pacote Express pelo yarn
+Instale o nodemon para a execucao do programa ser constantemente atualizada
+Use scripts no package.json para facilitar algumas execucoes
+
+Instale o insomnia para facilitar os processos de get,put, post e delete. Assim nao se precisa do browser.
+
+(O que se refere a programacao esta em comentario no codigo)
+
+
+Usar MongoDB para hospedar na nuvem. 
+	Criar um cluster(servidor)
+	Criar usuario para acessar (Database Acess)
+	Configurar o network (whilelist) de quem vai poder acessar, adicioando o ip da maquina desenvolvedora ou permitir qualquer um de acessa-la. (Network Acess)
+	Clica em "Connect" no cluster criado e adiciona o mongoose(package) para conectar o mondodb-cluster com o app
+
+
+
+Criar um arquivo apenas para as rotas (Put, get, push...)
+
+Criar os models
+
+Usar API do github (Instala o axios pelo yarn)
+
+
+Crie as rotas e suas respectivas funções
+
+--back-complete--
+
+
+
+--front start--
+instale o react-app pelo yarn 
+
+crie um react-app web com o yarn
+
+a partir dessa pasta criada, vc utiliza o react
+
+index é a pagina principal
+
+essa pagina principal so serve para exibir muito por cima. 
+cada div especifica possui o seu próprio javascript. Essa notação
+aparenta ser ruim, mas na prática é melhor. 
+
+Para cada bloco, cada objeto, um css distinto. Tambem facilita na
+prática.
+
+Depois, para cada componente, uma pasta propria com seu proprio css facilita ainda mais.
+
+Usar o cors para conectar o back com o front, visto que cada um tem localhost distinto.
+
+--enf front---
+
+--start mobile--
+Usar api do google,
+expo, 
+react-native,
+Criar primeiro as rotas, inclusive a main,
+Cada componente de <script> precisa ser importado da react-native,
+os estilos são definidos nos códigos abaixo,
+Usar axios para conectar com o back-end
+--end mobile--
+
+
